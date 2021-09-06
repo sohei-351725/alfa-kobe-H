@@ -524,3 +524,9 @@ border-width:3px;
 .story_03{
  color:blue;
 }
+
+.story_04{
+ border-bottom:double;
+  border-color:FF8C00;
+  border-width:3px;
+}

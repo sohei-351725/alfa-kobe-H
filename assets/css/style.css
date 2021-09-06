@@ -510,3 +510,8 @@ button {
   display: none;
 }
 /*# sourceMappingURL=style.css.map */
+
+
+.story-01{
+  background:linear-gradient(transparrent 70%, #FFFF00 0%);
+}

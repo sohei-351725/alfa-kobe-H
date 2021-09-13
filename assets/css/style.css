@@ -530,3 +530,9 @@ border-width:3px;
   border-color:#ffa500;
   border-width:4px;
 }
+
+.hiragana{
+border-bottom:solid;
+border-color:#FF0000;
+border-width:3px;
+}
